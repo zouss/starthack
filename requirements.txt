@@ -1,3 +1,5 @@
 wapi-python
 dash
 requests
+scipy
+dash_bootstrap_components
