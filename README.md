@@ -1,7 +1,5 @@
 # Getting Started with Start Hack Project -> Market at Glance
 
-[Demo]() is also available
-
 # Project Description
 
 On the coding side, we build a dashboard called “The Market at a Glance” (Based on Plotly Dash)
